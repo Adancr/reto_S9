@@ -1,0 +1,1 @@
+Determinar el sueldo semanal de un trabajador basandose en sus horas trabajadas y su salario de hora hombre
